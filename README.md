@@ -1,19 +1,19 @@
-# Hi, I'm Noah Okafor  
-*Mobile developer crafting native and cross-platform experiences with SwiftUI and Flutter.*
+# Hi, I'm Noah Okafor
+Building polished mobile experiences with SwiftUI and Flutter.
 
-## About me  
-- Based in Nairobi, Kenya, building mobile apps for real-world problems.  
-- Focused on clean UI, smooth animations, and solid performance.  
-- Always exploring new tools and patterns in the Apple and Flutter ecosystems.  
+## About me
+- Mobile developer based in Nairobi, Kenya, focused on native iOS and cross-platform apps.
+- I enjoy turning complex ideas into clean, intuitive interfaces.
+- Always exploring new ways to improve performance and user experience.
 
-## Tech stack  
+## Tech stack
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
-## What I'm currently working on  
-- A SwiftUI app for local event discovery and booking.  
-- Experimenting with Flutter for a cross-platform productivity tool.  
+## What I'm currently working on
+- A SwiftUI app that helps users track daily habits with a focus on simplicity.
+- Experimenting with Flutter for a cross-platform side project.
 
-## GitHub stats  
+## GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gmbodnm56&show_icons=true&hide_border=true)
 
-*Code is my language, but coffee is my compiler.*
+Thanks for stopping by — feel free to explore my repos.
